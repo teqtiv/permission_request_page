@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  animations: ^2.0.4
-  permission_handler: ^10.0.0
-  shared_preferences: ^2.0.15
-  device_info_plus: ^4.1.2
+  animations: 
+  permission_handler: 
+  shared_preferences: 
+  device_info_plus:
 
 dev_dependencies:
   flutter_test:
